@@ -2,5 +2,7 @@
 bước 2: tạo database edusec , import file edusec.sql trong thư mục database 
 bước 3: tạo database school_5 , import file school_5.sql trong thư mục database 
 bước 4: tạo database thht, import file thht.sqltrong thư mục database 
+
+bước 5 : tạo database openbiblio. 
 bước 5 : bật apache và mysql ,vào trình duyệt gõ : localhost:8080/laravel/home (thay localhos:8080 bằng cài đặt tương ướng)
 
